@@ -13,8 +13,6 @@
   * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
   * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
-  * [Setup Facebook Login](how-to-guides/setup-facebook-login.md)
-  * [Purchase A Domain Name](how-to-guides/purchase-a-domain-name.md)
   * [Setup A Custom Domain](how-to-guides/setup-a-custom-domain.md)
   * [Setup an iOS & Android App](how-to-guides/setup-an-ios-and-android-app.md)
   * [Setup Facebook Ordering](how-to-guides/setup-facebook-ordering.md)
