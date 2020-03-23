@@ -14,7 +14,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 * Windows 7 / 8 / 10 either 32-bit or 64-bit
 * A Windows-compatible printer with the drivers installed
-* Latest .NET framework by Microsoft installed \(might already be installed on Windows 10\). Download [here](https://www.microsoft.com/en-us/download/details.aspx?id=55170) 
+* Latest .NET framework by Microsoft installed \(might already be installed on Windows 10\). Download [here](https://pushprinter-v2-releases.s3-ap-southeast-2.amazonaws.com/PushPrinter+Setup+2.3.1.exe) 
 
 \|\| If you are unable to install the latest .NET framework due to an outdated operating system, there are 3 options. First, proceed with the steps below and see if printing works anyways. Second, update your Windows as required for the .NET framework. Third, proceed with the steps below and make sure to configure Ghostscript as shown at the bottom of the instructions.
 
